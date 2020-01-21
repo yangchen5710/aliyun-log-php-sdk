@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require melloweraliyun/log -vvv
+$ composer require mellower_aliyun/log -vvv
 ```
 
 ## Usage
