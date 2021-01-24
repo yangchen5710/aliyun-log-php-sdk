@@ -1,11 +1,11 @@
 {
-    "name": "mellower_aliyun\/log",
+    "name": "ycstar_aliyun\/log",
     "description": "阿里云日志服务",
     "license": "MIT",
     "authors": [
         {
-            "name": "jcc",
-            "email": "370234915@qq.com"
+            "name": "yangchen",
+            "email": "547098838@qq.com"
         }
     ],
     "require": {},
