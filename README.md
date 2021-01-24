@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require mellower_aliyun/log -vvv
+$ composer require ycstar_aliyun/log -vvv
 ```
 
 ## Usage
